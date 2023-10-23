@@ -1,65 +1,63 @@
-<!-- Header -->
-<div align="center">
-  <img src="https://placekitten.com/200/200" alt="Seu Nome" width="100" height="100">
-  <h1>Olá, eu sou [Seu Nome] 🌸</h1>
-  <p>Bem-vindo ao meu perfil do GitHub! </p>
+<div align="right">
+  <h2>Bem-vindo ao meu perfil do Github! 😀</h2>
 </div>
 
-<!-- Sobre Mim -->
-## 🌍 Sobre Mim
-- 🏡 Moro em [Sua Localização]
-- 💼 Trabalho como [Sua Profissão]
-- 🌱 Atualmente, estou aprendendo [O Que Você Está Aprendendo]
-- 👯 Estou procurando colaborar em projetos de [Área de Interesse]
+## Sobre Mim
+
+<div>
+ 
+## 
+
+Me chamo Sarah, tenho 21 anos, sou de Belo Horizonte e atualmente trabalho como Analista de Dados Jr. no grupo LAGOAPAR, iniciei minha carreira em tecnologia a aproximadamente 2 anos e hoje sei que a área de dados é a que eu quero seguir, meus estudos são focados em todas ferramentas que possam auxiliar na automação e melhorias dos processos empresariais. 
+
+Sempre fui apaixonada com jogos e isso me atiçou a entrar no mundo da tecnologia, aos 14 anos iniciei um técnico em mecatrônica pelo SENAI, aos 16 estava cursando eletroeletrônica pelo CEFET, naquela época eu queria seguir a área de engenharia elétrica, mas quando tive contato com programação de arduínos fiquei extremamente interessada em aprender mais, vendo o rumo do mercado resolvi entrar para área de TI, hoje aos 21 estou cursando minha graduação em Inteligência Artificial pela Cruzeiro do Sul. 
+
+O intuito desse perfil é que você possa conhecer um pouco mais sobre mim e que eu possa compartilhar com você o que eu aprendi e aprendo todos os dias. Peço que faça o mesmo!
+
+##
+ 
+</div>
 
 <!-- Linguagens e Ferramentas -->
-## 🛠️ Linguagens e Ferramentas
-Aqui estão algumas das linguagens e ferramentas que eu uso:
+## Ferramentas
 
-- [Linguagem 1]
-- [Linguagem 2]
-- [Ferramenta 1]
-- [Ferramenta 2]
+<div align="Center">
 
-<!-- Projetos Destacados -->
-## 💼 Projetos Destacados
-Aqui estão alguns dos meus projetos no GitHub que eu gostaria de destacar:
+<code><img src="https://img.shields.io/badge/Power%20BI-%23F2C811?style=for-the-badge&logo=powerbi&logoColor=%23ffffff" alt="Power BI"/></code>
+<code><img src="https://img.shields.io/badge/Tableau-%23E97627?style=for-the-badge&logo=tableau&logoColor=%23ffffff" alt="Tableau"/></code>
+<code><img src="https://img.shields.io/badge/Qlik-%23009848?style=for-the-badge&logo=Qlik&logoColor=%23ffffff" alt="Qlik"/></code>
+<code><img src="https://img.shields.io/badge/PostgreSQL-%234169E1?style=for-the-badge&logo=PostgreSQL&logoColor=%23ffffff" alt="PostgreSQL"/></code>
+<code><img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-%23CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=%23ffffff" alt="SQL Server"/></code>
+<code><img src="https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=%23ffffff" alt="MySQL"/></code>
+<code><img src="https://img.shields.io/badge/Oracle%20Database-%23F80000?style=for-the-badge&logo=oracle&logoColor=%23ffffff" alt="Oracle SQL"/></code>
+<code><img src="https://img.shields.io/badge/Visual%20Studio-%235C2D91?style=for-the-badge&logo=visualstudio&logoColor=%23ffffff" alt="Visual Studio"/></code>
+<code><img src="https://img.shields.io/badge/GitLab-%23FC6D26?style=for-the-badge&logo=gitlab&logoColor=%23ffffff" alt="GitLab"/></code>
+<code><img src="https://img.shields.io/badge/HelpDesk-%232FC774?style=for-the-badge&logo=helpdesk&logoColor=%23ffffff" alt="HelpDesk"/></code>
+<code><img src="https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=%23ffffff" alt="PHP"/></code>
+<code><img src="https://img.shields.io/badge/Laravel-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=%23ffffff" alt="Laravel"/></code>
+<code><img src="https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=%23ffffff" alt="Figma"/></code>
 
-- [Projeto 1]: Breve descrição do projeto.
-- [Projeto 2]: Breve descrição do projeto.
+</div>
 
 <!-- Estatísticas do GitHub -->
-## 📈 Estatísticas do GitHub
+## Estatísticas GitHub
+
+<div align="center">
 
 [![sarahkelly-sn](https://github-readme-stats.vercel.app/api?username=sarahkelly-sn&theme=omni)](https://github.com/sarahkelly-sn/)
 
-[![sarahkelly-sn](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahkelly-sn&hide=html&layout=compact&theme=omni)](https://github.com/sarahkelly-sn/)
+
+</div>
 
 <!-- Entre em Contato -->
-## 📫 Entre em Contato
-<code>
-  <a href="https://www.linkedin.com/in/sarah-kelly-024351155/" alt="Linkedin">
-  <img height="40" src="https://cdn-icons-png.flaticon.com/256/174/174857.png" /></code>
-<code>
-  <a href="https://www.linkedin.com/in/sarah-kelly-024351155/" alt="Linkedin">
-  <img height="40" src="https://cdn-icons-png.flaticon.com/256/174/174857.png" /></code>
-<code>
-  <a href="https://www.linkedin.com/in/sarah-kelly-024351155/" alt="Linkedin">
-  <img height="40" src="https://cdn-icons-png.flaticon.com/256/174/174857.png" /></code>
-<code>
-  <a href="https://www.linkedin.com/in/sarah-kelly-024351155/" alt="Linkedin">
-  <img height="40" src="https://cdn-icons-png.flaticon.com/256/174/174857.png" /></code>
-<p align="left">
-  <a href="https://www.linkedin.com/in/sarah-kelly-024351155/" alt="Instagram">
-  <img height="40" src="https://imagepng.org/wp-content/uploads/2017/08/instagram-icone-icon-1.png" /></a>
-</p><p align="left">
-  <a href="mail:sarah.sqn@gmail.com" alt="E-mail">
-  <img height="40" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" /></a>
-</p>
+## Entre em Contato
 
-<!-- Contribuições -->
-## ❤️ Contribuições
-Se você gostaria de colaborar em um dos meus projetos ou tiver alguma pergunta, fique à vontade para entrar em contato!
+<div align="right">
+  
+<a href="https://www.linkedin.com/in/sarah-kelly-024351155/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "mailto:sarah.sqn@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://api.whatsapp.com/send?phone=5531983238839" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=%23ffffff" target="_blank"></a>
+<a href="https://www.instagram.com/sarahkelly_sn/?next=%2F" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=%23ffffff" target="_blank"></a>
 
-[![Seu Nome](https://img.shields.io/github/followers/SeuNomeDeUsuário?label=Seguidores&style=social)](https://github.com/SeuNomeDeUsuário)
-[![GitHub](https://img.shields.io/github/following/SeuNomeDeUsuário?label=Seguindo&style=social)](https://github.com/SeuNomeDeUsuário)
+</div>
+
