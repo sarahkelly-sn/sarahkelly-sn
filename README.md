@@ -1,5 +1,5 @@
-<div align="right">
-  <h2>Bem-vindo ao meu perfil do Github! 😀</h2>
+<div align="left">
+  <h2>Bem-vindo ao meu perfil do Github! 🌼</h2>
 </div>
 
 ## Sobre Mim
@@ -22,7 +22,8 @@ O intuito desse perfil é que você possa conhecer um pouco mais sobre mim e que
 ## Ferramentas
 
 <div align="Center">
-
+  
+<code><img src="https://img.shields.io/badge/Excel-%23217346?style=for-the-badge&logo=microsoftexcel&logoColor=%23ffffff" alt="Excel"/></code>
 <code><img src="https://img.shields.io/badge/Power%20BI-%23F2C811?style=for-the-badge&logo=powerbi&logoColor=%23ffffff" alt="Power BI"/></code>
 <code><img src="https://img.shields.io/badge/Tableau-%23E97627?style=for-the-badge&logo=tableau&logoColor=%23ffffff" alt="Tableau"/></code>
 <code><img src="https://img.shields.io/badge/Qlik-%23009848?style=for-the-badge&logo=Qlik&logoColor=%23ffffff" alt="Qlik"/></code>
@@ -32,9 +33,15 @@ O intuito desse perfil é que você possa conhecer um pouco mais sobre mim e que
 <code><img src="https://img.shields.io/badge/Oracle%20Database-%23F80000?style=for-the-badge&logo=oracle&logoColor=%23ffffff" alt="Oracle SQL"/></code>
 <code><img src="https://img.shields.io/badge/Visual%20Studio-%235C2D91?style=for-the-badge&logo=visualstudio&logoColor=%23ffffff" alt="Visual Studio"/></code>
 <code><img src="https://img.shields.io/badge/GitLab-%23FC6D26?style=for-the-badge&logo=gitlab&logoColor=%23ffffff" alt="GitLab"/></code>
+<code><img src="https://img.shields.io/badge/Vercel-%23000000?style=for-the-badge&logo=vercel&logoColor=%23ffffff" alt="Vercel"/></code>
 <code><img src="https://img.shields.io/badge/HelpDesk-%232FC774?style=for-the-badge&logo=helpdesk&logoColor=%23ffffff" alt="HelpDesk"/></code>
 <code><img src="https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=%23ffffff" alt="PHP"/></code>
 <code><img src="https://img.shields.io/badge/Laravel-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=%23ffffff" alt="Laravel"/></code>
+<code><img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=%23ffffff" alt="Python"/></code>
+<code><img src="https://img.shields.io/badge/Pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=%23ffffff" alt="Pandas"/></code>
+<code><img src="https://img.shields.io/badge/Selenium-%2343B02A?style=for-the-badge&logo=selenium&logoColor=%23ffffff" alt="Selenium"/></code>
+<code><img src="https://img.shields.io/badge/Numpy-%23013243?style=for-the-badge&logo=numpy&logoColor=%23ffffff" alt="NumPy"/></code>
+<code><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00?style=for-the-badge&logo=tensorflow&logoColor=%23ffffff" alt="TensorFlow"/></code>
 <code><img src="https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=%23ffffff" alt="Figma"/></code>
 
 </div>
