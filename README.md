@@ -35,13 +35,6 @@ O intuito desse perfil é que você possa conhecer um pouco mais sobre mim e que
 <code><img src="https://img.shields.io/badge/GitLab-%23FC6D26?style=for-the-badge&logo=gitlab&logoColor=%23ffffff" alt="GitLab"/></code>
 <code><img src="https://img.shields.io/badge/Vercel-%23000000?style=for-the-badge&logo=vercel&logoColor=%23ffffff" alt="Vercel"/></code>
 <code><img src="https://img.shields.io/badge/HelpDesk-%232FC774?style=for-the-badge&logo=helpdesk&logoColor=%23ffffff" alt="HelpDesk"/></code>
-<code><img src="https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=%23ffffff" alt="PHP"/></code>
-<code><img src="https://img.shields.io/badge/Laravel-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=%23ffffff" alt="Laravel"/></code>
-<code><img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=%23ffffff" alt="Python"/></code>
-<code><img src="https://img.shields.io/badge/Pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=%23ffffff" alt="Pandas"/></code>
-<code><img src="https://img.shields.io/badge/Selenium-%2343B02A?style=for-the-badge&logo=selenium&logoColor=%23ffffff" alt="Selenium"/></code>
-<code><img src="https://img.shields.io/badge/Numpy-%23013243?style=for-the-badge&logo=numpy&logoColor=%23ffffff" alt="NumPy"/></code>
-<code><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00?style=for-the-badge&logo=tensorflow&logoColor=%23ffffff" alt="TensorFlow"/></code>
 <code><img src="https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=%23ffffff" alt="Figma"/></code>
 
 </div>
