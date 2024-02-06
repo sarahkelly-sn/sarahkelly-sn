@@ -8,9 +8,7 @@
  
 ## 
 
-Me chamo Sarah, tenho 21 anos, sou de Belo Horizonte e atualmente trabalho como Analista de Dados Jr., iniciei minha carreira em tecnologia a aproximadamente 2 anos e hoje sei que a área de dados é a que eu quero seguir, meus estudos são focados em todas ferramentas que possam auxiliar na automação e melhorias dos processos empresariais. 
-
-Sempre fui apaixonada com jogos e isso me atiçou a entrar no mundo da tecnologia, aos 14 anos iniciei um técnico em mecatrônica pelo SENAI, aos 16 estava cursando eletroeletrônica pelo CEFET, naquela época eu queria seguir a área de engenharia elétrica, mas quando tive contato com programação de arduínos fiquei extremamente interessada em aprender mais, vendo o rumo do mercado resolvi entrar para área de TI, hoje aos 21 estou cursando minha graduação em Inteligência Artificial pela Cruzeiro do Sul. 
+Me chamo Sarah, tenho 21 anos, sou de Belo Horizonte e atualmente trabalho como Analista de Dados, iniciei minha carreira em tecnologia a aproximadamente 2 anos, meus estudos são focados em análises e indicadores empresariais e em ferramentas que possam auxiliar na automação e melhorias dos processos dentro do negócio. 
 
 O intuito desse perfil é que você possa conhecer um pouco mais sobre mim e que eu possa compartilhar com você o que eu aprendi e aprendo todos os dias. Peço que faça o mesmo!
 
