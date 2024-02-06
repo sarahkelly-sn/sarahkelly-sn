@@ -8,7 +8,9 @@
  
 ## 
 
-Me chamo Sarah, tenho 21 anos, sou de Belo Horizonte e atualmente trabalho como Analista de Dados, iniciei minha carreira em tecnologia a aproximadamente 2 anos, meus estudos são focados em análises e indicadores empresariais e em ferramentas que possam auxiliar na automação e melhorias dos processos dentro do negócio. 
+Me chamo Sarah, tenho 21 anos, sou de Belo Horizonte e atualmente trabalho como Analista de Dados, iniciei minha carreira em tecnologia a pouco mais de 2 anos.
+
+Meus estudos são focados em análises de indicadores empresariais e em ferramentas que possam auxiliar na automação e melhorias dos processos dentro do negócio. 
 
 O intuito desse perfil é que você possa conhecer um pouco mais sobre mim e que eu possa compartilhar com você o que eu aprendi e aprendo todos os dias. Peço que faça o mesmo!
 
