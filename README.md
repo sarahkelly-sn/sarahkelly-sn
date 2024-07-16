@@ -1,25 +1,16 @@
 <div align="left">
-  <h2>Bem-vindo ao meu perfil do Github! 🌼</h2>
+  <h2>Welcome to my GitHub profile!</h2>
 </div>
 
-## Sobre Mim
+## About Me
 
-<div>
- 
-## 
 
-Me chamo Sarah, tenho 21 anos, sou de Belo Horizonte e atualmente trabalho como Analista de Dados, iniciei minha carreira em tecnologia a pouco mais de 2 anos.
+My name is Sarah, I'm from Belo Horizonte, and I currently work as a Data Analyst. 
 
-Meus estudos são focados em análises de indicadores empresariais e em ferramentas que possam auxiliar na automação e melhorias dos processos dentro do negócio. 
+The purpose of this profile is for you to get to know me a little better and for me to share what I've learned and continue to learn every day. I encourage you to do the same!
 
-O intuito desse perfil é que você possa conhecer um pouco mais sobre mim e que eu possa compartilhar com você o que eu aprendi e aprendo todos os dias. Peço que faça o mesmo!
-
-##
- 
-</div>
-
-<!-- Linguagens e Ferramentas -->
-## Ferramentas
+  
+## Tools
 
 <div align="Center">
   
@@ -39,8 +30,7 @@ O intuito desse perfil é que você possa conhecer um pouco mais sobre mim e que
 
 </div>
 
-<!-- Estatísticas do GitHub -->
-## Estatísticas GitHub
+## GitHub Stats
 
 <div align="center">
 
@@ -49,14 +39,12 @@ O intuito desse perfil é que você possa conhecer um pouco mais sobre mim e que
 
 </div>
 
-<!-- Entre em Contato -->
-## Entre em Contato
+## Contact Me
 
-<div align="right">
+<div align="center">
   
 <a href="https://www.linkedin.com/in/sarah-kelly-024351155/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:sarah.sqn@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.instagram.com/sarahkelly_sn/?next=%2F" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=%23ffffff" target="_blank"></a>
 
 </div>
 
