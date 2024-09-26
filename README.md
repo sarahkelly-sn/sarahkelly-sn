@@ -2,9 +2,9 @@
   <h2>Welcome to my GitHub profile!</h2>
 </div>
 
-My name is Sarah, I'm from Belo Horizonte, and I currently work as a Data Analyst. 
+Hey, I'm Sarah.
 
-This profile offers a glimpse into my journey, sharing what I've learned and continue to explore daily. I encourage you to do the same!  
+The purpose of this profile is for you to get to know me a little better and for me to share what I've learned and continue to learn every day. I encourage you to do the same! 
 
 ## Tools
 
