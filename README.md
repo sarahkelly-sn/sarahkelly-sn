@@ -2,14 +2,10 @@
   <h2>Welcome to my GitHub profile!</h2>
 </div>
 
-## About Me
-
-
 My name is Sarah, I'm from Belo Horizonte, and I currently work as a Data Analyst. 
 
-The purpose of this profile is for you to get to know me a little better and for me to share what I've learned and continue to learn every day. I encourage you to do the same!
+This profile offers a glimpse into my journey, sharing what I've learned and continue to explore daily. I encourage you to do the same!  
 
-  
 ## Tools
 
 <div align="Center">
@@ -29,12 +25,6 @@ The purpose of this profile is for you to get to know me a little better and for
 <code><img src="https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=%23ffffff" alt="Figma"/></code>
 
 </div>
-
-## GitHub Stats
-
-<div align="center">
-
-[![sarahkelly-sn](https://github-readme-stats.vercel.app/api?username=sarahkelly-sn&theme=omni)](https://github.com/sarahkelly-sn/)
 
 
 </div>
