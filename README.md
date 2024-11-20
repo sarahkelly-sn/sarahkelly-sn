@@ -6,6 +6,10 @@ Hey, I'm Sarah.
 
 The purpose of this profile is for you to get to know me a little better and for me to share what I've learned and continue to learn every day. I encourage you to do the same! 
 
+  <a href="https://sarahkelly-sn.github.io/" target="_blank">
+    🌐 Visit my personal site
+  </a>
+
 ## Tools
 
 <div align="Center">
